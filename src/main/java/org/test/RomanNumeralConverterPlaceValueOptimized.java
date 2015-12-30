@@ -1,7 +1,8 @@
 package org.test;
 
 /**
- * Created by jalbrecht on 26/12/15.
+ * An optimized version of a roman numeral converter. Unrolls the loop, and uses literals
+ * in division and mod operators.
  */
 public class RomanNumeralConverterPlaceValueOptimized implements RomanNumeralConverter {
 

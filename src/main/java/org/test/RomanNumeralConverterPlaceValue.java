@@ -5,7 +5,7 @@ import com.google.common.collect.ImmutableList;
 import java.util.List;
 
 /**
- * Created by jalbrecht on 26/12/15.
+ * An implementation that converts each decimal digit to a roman numeral.
  */
 public class RomanNumeralConverterPlaceValue implements RomanNumeralConverter {
 

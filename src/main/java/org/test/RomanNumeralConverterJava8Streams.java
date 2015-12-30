@@ -8,7 +8,9 @@ import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
 /**
- * Created by jalbrecht on 28/12/15.
+ * A java implementation of the c# solution from:
+ *
+ * http://geekswithblogs.net/theArchitectsNapkin/archive/2014/05/28/informed-tdd-ndash-kata-ldquoto-roman-numeralsrdquo.aspx
  */
 public class RomanNumeralConverterJava8Streams implements RomanNumeralConverter {
 
