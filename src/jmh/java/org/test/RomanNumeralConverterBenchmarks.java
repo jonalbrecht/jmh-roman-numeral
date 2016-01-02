@@ -1,13 +1,10 @@
-package org.Test;
+package org.test;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.runner.Runner;
 import org.openjdk.jmh.runner.RunnerException;
 import org.openjdk.jmh.runner.options.Options;
 import org.openjdk.jmh.runner.options.OptionsBuilder;
-import org.test.RomanNumeralConverterJava8Streams;
-import org.test.RomanNumeralConverterPlaceValue;
-import org.test.RomanNumeralConverterPlaceValueOptimized;
 
 import java.util.Random;
 
